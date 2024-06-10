@@ -86,7 +86,7 @@ class MainScreen : AppCompatActivity() {
                 Toast.makeText(this, "Make sure all necessary data has been input", Toast.LENGTH_LONG).show()
             }
             //calculate average
-            average = (sumOfMaxTemps+sumOfMaxTemps)
+            average = (sumOfMaxTemps+sumOfMaxTemps)/7
 
 
         }
